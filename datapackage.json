@@ -1,0 +1,1 @@
+{"name":"test","title":"Test","description":"This is a test collection description","licenses":[{"url":"https://creativecommons.org/licenses/by/4.0/","title":"Creative Commons Attribution 4.0"}],"publishers":[{"name":null,"web":null}],"resources":[{"name":"File_1","mediatype":"text/csv","description":"This is the first file of the test collection.","path":"data/file_1.csv"}]}
